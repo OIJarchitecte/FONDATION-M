@@ -1,2 +1,2 @@
 # FONDATION-M
-https://raw.githubusercontent.com/OIJarchitecte/FONDATION-M/main.vrm
+https://raw.githubusercontent.com/OIJarchitecte/FONDATION-M/main
